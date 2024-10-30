@@ -1,11 +1,11 @@
 criaCartao(
-    'Categoria',
-    'Como ter seu Armário inteligente?',
-    'Resposta'
+    'tradução para o português:',
+    'qual é a tradução de lets go',
+    'Vamos lá'
 )
 
 criaCartao(
-    'Categoria',
+    'Segundo Passo:',
     'Pergunta?',
     'Resposta'
 )
