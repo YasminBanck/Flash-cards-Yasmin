@@ -1,23 +1,24 @@
 criaCartao(
-    'tradução para o português:',
-    'qual é a tradução de lets go',
-    'Vamos lá'
+    'Geografia:',
+    'Qual cidade tem a maior expectativa de vida no mundo?',
+    'Hong Kong'
+    ,
 )
 
 criaCartao(
-    'Segundo Passo:',
-    'Pergunta?',
-    'Resposta'
+    'Geografia:',
+    'Qual é a montanha mais alta do mundo?',
+    'Monte Everest'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta?',
-    'Resposta'
+    'Geografia',
+    'Quem era o antigo Deus Grego so sol?',
+    'Apolo'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta?',
-    'Resposta'
+    'Geografia',
+    'Em que ano foi criada a ONU?',
+    '1945'
 )
