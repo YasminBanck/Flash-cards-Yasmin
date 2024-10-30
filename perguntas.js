@@ -13,7 +13,7 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Quem era o antigo Deus Grego so sol?',
+    'Quem era o antigo Deus Grego do sol?',
     'Apolo'
 )
 
